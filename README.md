@@ -1,1 +1,2 @@
-# In this assignment, I have applied Bootstrap utilities, forms, tables, images, and components to create a fully functional, responsive web page. See the code in index.html and have applied custom styling in the index.css file to override some Bootstrap styles.
+# In this assignment, I have applied Bootstrap utilities, forms, tables, images, and components to create a fully, functional responsive web page. See the code in index.html and have applied custom styling in the index.css file to override some Bootstrap styles.
+# To view the webpage rendering, Copy the URL of HTML and CSS file on my GitHub. Go to htmlpreview.github.io. Paste the URL into the box. It will render the page instantly.
