@@ -158,8 +158,8 @@
         .forEach(function (form) {
           form.addEventListener('submit', function (event) {
             if (!form.checkValidity()) {
-              event.preventDefault()
-              event.stopPropagation()
+              event.preventDefault()                                 //Prevent form submission if validation fails
+              event.stopPropagation()                                //Stop the event from propagating
             }
 
             form.classList.add('was-validated')
