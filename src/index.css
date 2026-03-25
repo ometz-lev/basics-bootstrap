@@ -2,18 +2,16 @@
   color:blue;
 }
 
-.btn {
-  background-color:red;
-}
+
 
 .form-check-input {
   border: 2px solid blue;
 }
 
-.form-control {
+/*.form-control {
   border: 2px;
   box-shadow: 0 0 5px;
-}
+}*/
 
 .navbar-nav{
   gap: 15px;
